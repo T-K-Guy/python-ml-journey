@@ -1,0 +1,8 @@
+Python
+Git
+Flask
+NumPy
+Pandas
+Scikit-learn
+TensorFlow
+PyTorch
